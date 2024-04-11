@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.SceneManagement;
-
+//de NPC
 public class GameManager : MonoBehaviour
 {
     [Header("Player")]
