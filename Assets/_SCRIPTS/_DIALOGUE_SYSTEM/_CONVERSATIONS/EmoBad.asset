@@ -1,0 +1,23 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 339c68f5eb5a5fb4dbc07bf1d36b4235, type: 3}
+  m_Name: EmoBad
+  m_EditorClassIdentifier: 
+  All_Lines:
+  - speaker: {fileID: 11400000, guid: 48b37c72da1298142bc545b7d261ce81, type: 2}
+    dialogue: "Tienes la memoria un poco\r\nfr\xE1gil, \xBFeh? Esto no es una <b>manzana</b>...
+      bueno, menos es nada. Al menos\r\nlo intentaste."
+  - speaker: {fileID: 11400000, guid: e87a0fdfab8364a4bbe8c329ac5a0857, type: 2}
+    dialogue: "Lo siento... Por cierto \xBFPor casualidad no habr\xE1s visto a un
+      gato negro de ojos amarillos?"
+  - speaker: {fileID: 11400000, guid: 48b37c72da1298142bc545b7d261ce81, type: 2}
+    dialogue: "Creo que vi a tu amigo por aqu\xED, s\xED."

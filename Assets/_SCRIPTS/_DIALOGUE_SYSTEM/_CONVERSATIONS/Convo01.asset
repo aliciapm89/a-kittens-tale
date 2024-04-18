@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 339c68f5eb5a5fb4dbc07bf1d36b4235, type: 3}
+  m_Name: Convo01
+  m_EditorClassIdentifier: 
+  All_Lines:
+  - speaker: {fileID: 11400000, guid: ebdf39b380c76e64bbc7782e5f54479e, type: 2}
+    dialogue: Este texto es el primero
+  - speaker: {fileID: 11400000, guid: fb6f0799ed06ad54e930d492ba9026da, type: 2}
+    dialogue: Este texto es el segundo
+  - speaker: {fileID: 11400000, guid: ebdf39b380c76e64bbc7782e5f54479e, type: 2}
+    dialogue: Este texto es el tercero

@@ -1,0 +1,22 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 339c68f5eb5a5fb4dbc07bf1d36b4235, type: 3}
+  m_Name: MotherEnd
+  m_EditorClassIdentifier: 
+  All_Lines:
+  - speaker: {fileID: 11400000, guid: 2a9cdce46df8c694482ea2316f7d3b14, type: 2}
+    dialogue: "\xA1No sabes lo agradecida que estoy! A todo\r\nesto, ni siquiera
+      s\xE9 tu nombre... ah, Milaneso, qu\xE9 lindo. Bueno, \xA1muchas\r\ngracias,
+      Milaneso!"
+  - speaker: {fileID: 11400000, guid: 2a9cdce46df8c694482ea2316f7d3b14, type: 2}
+    dialogue: "Ah... as\xED que buscas a tu amiguito. Creo que vi a alguien muy similar
+      en la\r\naldea. Me pregunto si seguir\xE1 ah\xED...\ngracias, Milaneso!"
