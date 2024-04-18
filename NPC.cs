@@ -1,7 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-
+//hola
 public class NPC : MonoBehaviour
 {
     GameManager manager;
